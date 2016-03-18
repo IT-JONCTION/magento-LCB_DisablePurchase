@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <LCB_DisablePurchase>
+            <active>true</active>
+            <codePool>community</codePool>
+        </LCB_DisablePurchase>
+    </modules>
+</config>
