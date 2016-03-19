@@ -1,4 +1,4 @@
 app/code/community/LCB/DisablePurchase                         app/code/community/LCB/DisablePurchase
-app/locale/pl_PL/LCB_DisablePurchase.csv                      app/locale/pl_PL/LCB_DisablePurchase.csv
+app/locale/pl_PL/LCB_DisablePurchase.csv                       app/locale/pl_PL/LCB_DisablePurchase.csv
 app/design/frontend/base/default/template/lcb/disablepurchase  app/design/frontend/base/default/template/lcb/disablepurchase
-app/etc/modules/LCB_DisablePurchase.xml                        app/etc/modules/DisablePurchase.xml
+app/etc/modules/LCB_DisablePurchase.xml                        app/etc/modules/LCB_DisablePurchase.xml
