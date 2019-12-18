@@ -16,13 +16,6 @@
                 <class>LCB_DisablePurchase_Model</class>
             </lcb_disablepurchase>
         </models>
-        <blocks>
-            <catalog>
-                <rewrite>
-                    <product_price>LCB_DisablePurchase_Block_Catalog_Product_Price</product_price>
-                </rewrite>
-            </catalog>
-        </blocks> 
         <events>
             <catalog_product_is_salable_after>
                 <observers>
